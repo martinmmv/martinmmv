@@ -1,7 +1,7 @@
 - Hi, I’m Martin Milon (@martinmmv)
 - I am a data science graduate student at the New York Institute of Technology (NYIT). My expected graduation date is May 2026. 
 - I graduated from Stony Brook University in 2020 with a B.A. in economics and political science.
-- I’m interested in the fundamental data science principles that guide the extraction of knowledge from economic and policy data.
+- I’m interested in data-driven decision-making and the fundamental data science principles that guide the extraction of knowledge from economic data.
 - How to reach me:
 - Email: martinmilonvelarde@gmail.com.
 - Webpage: mmvdatascience.com.
