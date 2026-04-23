@@ -1,11 +1,8 @@
 # Martin Milon, Data Scientist
-- Welcome, I’m Martin Milon (@martinmmv)
-- I am a data science graduate student at the New York Institute of Technology (NYIT). My expected graduation date is May 2026. 
-- I graduated from Stony Brook University in 2020 with a B.A. in economics and political science.
-- I’m interested in data-driven decision-making and the fundamental data science principles that guide the extraction of knowledge from economic data.
+- Welcome to my GitHub, my name is Martin Milon (@martinmmv). I have an M.S. in data science from the New York Institute of Technology and a B.A. in economics and political science from Stony Brook University. Here, you will find my work. I am interested in the applications of data mining and machine learning to economics, finance, and public policy. I mainly program in Python.
 - How to reach me:
 - Email: martinmilonvelarde@gmail.com.
-- Webpage: mmvdatascience.com.
+- Webpage: mmvdata.com.
 <!---
 martinmmv/martinmmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
